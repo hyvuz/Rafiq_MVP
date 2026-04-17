@@ -1,0 +1,212 @@
+{
+  "لا": {
+    "text_hint": "نفي أو منع",
+    "emoji_candidates": ["🙅", "⛔", "🚫"],
+    "category": ["negation", "warning"]
+  },
+  "ممنوع": {
+    "text_hint": "منع",
+    "emoji_candidates": ["⛔", "🚫", "🙅"],
+    "category": ["warning", "status"]
+  },
+  "التفويج": {
+    "text_hint": "التحرك مع المجموعة",
+    "emoji_candidates": ["🚶", "➡️", "👥"],
+    "category": ["action", "direction", "group"]
+  },
+  "نقطة التفويج": {
+    "text_hint": "اجتمع هناك",
+    "emoji_candidates": ["📍", "👥"],
+    "category": ["place", "group"]
+  },
+  "المشاعر": {
+    "text_hint": "أماكن الحج",
+    "emoji_candidates": ["📍"],
+    "category": ["place"]
+  },
+  "النفرة": {
+    "text_hint": "اذهب لمكان جديد",
+    "emoji_candidates": ["🚶", "➡️", "📍"],
+    "category": ["action", "direction", "place"]
+  },
+  "الإفاضة": {
+    "text_hint": "اذهب بعد الغروب",
+    "emoji_candidates": ["🚶", "➡️"],
+    "category": ["action", "direction"]
+  },
+  "السعي": {
+    "text_hint": "المشي بين مكانين",
+    "emoji_candidates": ["🚶", "↔️"],
+    "category": ["action", "direction"]
+  },
+  "الطواف": {
+    "text_hint": "الدوران حول الكعبة",
+    "emoji_candidates": ["🔄", "🕋"],
+    "category": ["action", "place"]
+  },
+  "التحلل": {
+    "text_hint": "يمكنك لبس الملابس العادية",
+    "emoji_candidates": ["👕"],
+    "category": ["status"]
+  },
+  "الإحرام": {
+    "text_hint": "بداية الحج أو العمرة",
+    "emoji_candidates": ["🧍"],
+    "category": ["status"]
+  },
+  "الميقات": {
+    "text_hint": "مكان بدء الإحرام",
+    "emoji_candidates": ["📍"],
+    "category": ["place"]
+  },
+  "الجمرات": {
+    "text_hint": "مكان رمي الجمرات",
+    "emoji_candidates": ["🪨", "🎯"],
+    "category": ["action", "place"]
+  },
+  "منى": {
+    "text_hint": "مكان السكن",
+    "emoji_candidates": ["⛺"],
+    "category": ["place"]
+  },
+  "عرفة": {
+    "text_hint": "مكان مهم في الحج",
+    "emoji_candidates": ["📍"],
+    "category": ["place"]
+  },
+  "مزدلفة": {
+    "text_hint": "اذهب هنا بعد عرفة",
+    "emoji_candidates": ["➡️", "📍"],
+    "category": ["direction", "place"]
+  },
+  "المخيم": {
+    "text_hint": "مخيم",
+    "emoji_candidates": ["⛺"],
+    "category": ["place"]
+  },
+  "التصعيد": {
+    "text_hint": "اذهب إلى عرفة",
+    "emoji_candidates": ["➡️", "📍"],
+    "category": ["direction", "place"]
+  },
+  "الترددية": {
+    "text_hint": "حافلات تذهب وتعود",
+    "emoji_candidates": ["🚌", "🔁"],
+    "category": ["transport"]
+  },
+  "التفتيش": {
+    "text_hint": "سيتم فحصك",
+    "emoji_candidates": ["🔍", "🧍"],
+    "category": ["check"]
+  },
+  "التصريح": {
+    "text_hint": "إذن دخول",
+    "emoji_candidates": ["📄"],
+    "category": ["document"]
+  },
+  "إبراز": {
+    "text_hint": "اعرض الورقة",
+    "emoji_candidates": ["📄"],
+    "category": ["document"]
+  },
+  "التوجيه": {
+    "text_hint": "معرفة أين تذهب",
+    "emoji_candidates": ["➡️"],
+    "category": ["direction"]
+  },
+  "المسار": {
+    "text_hint": "الطريق",
+    "emoji_candidates": ["🚶", "➡️"],
+    "category": ["action", "direction"]
+  },
+  "البوابة": {
+    "text_hint": "بوابة",
+    "emoji_candidates": ["🚪"],
+    "category": ["place"]
+  },
+  "المنفذ": {
+    "text_hint": "مكان الدخول",
+    "emoji_candidates": ["🚪", "📍"],
+    "category": ["place"]
+  },
+  "الخدمات المساندة": {
+    "text_hint": "خدمات للمساعدة",
+    "emoji_candidates": ["🆘"],
+    "category": ["help"]
+  },
+  "الإسعاف": {
+    "text_hint": "مساعدة طبية",
+    "emoji_candidates": ["🚑", "🩺"],
+    "category": ["medical"]
+  },
+  "الطوارئ": {
+    "text_hint": "حالة عاجلة",
+    "emoji_candidates": ["⚠️", "🚨"],
+    "category": ["warning", "emergency"]
+  },
+  "المفقودات": {
+    "text_hint": "الأشياء الضائعة",
+    "emoji_candidates": ["🔍", "📦"],
+    "category": ["lost_found"]
+  },
+  "الإرشاد": {
+    "text_hint": "معلومة أو مساعدة",
+    "emoji_candidates": ["ℹ️"],
+    "category": ["help"]
+  },
+  "التحميل": {
+    "text_hint": "اركب الحافلة",
+    "emoji_candidates": ["🚌", "⬆️"],
+    "category": ["transport", "action"]
+  },
+  "الإنزال": {
+    "text_hint": "انزل هنا",
+    "emoji_candidates": ["🚌", "⬇️"],
+    "category": ["transport", "action"]
+  },
+  "التجمع": {
+    "text_hint": "كل الناس هنا",
+    "emoji_candidates": ["👥", "📍"],
+    "category": ["group", "place"]
+  },
+  "الازدحام": {
+    "text_hint": "يوجد ناس كثير",
+    "emoji_candidates": ["👥", "⚠️"],
+    "category": ["crowd", "warning"]
+  },
+  "التنبيه": {
+    "text_hint": "انتبه",
+    "emoji_candidates": ["⚠️"],
+    "category": ["warning"]
+  },
+  "مغلق": {
+    "text_hint": "لا تدخل",
+    "emoji_candidates": ["⛔", "🚫", "🚪"],
+    "category": ["warning", "status"]
+  },
+  "مفتوح": {
+    "text_hint": "ادخل",
+    "emoji_candidates": ["✅", "🚪"],
+    "category": ["status"]
+  },
+  "اتبع": {
+    "text_hint": "تحرك مع الاتجاه",
+    "emoji_candidates": ["🚶", "➡️"],
+    "category": ["action", "direction"]
+  },
+  "توجه": {
+    "text_hint": "اذهب لهذا المكان",
+    "emoji_candidates": ["🚶", "➡️", "📍"],
+    "category": ["action", "direction", "place"]
+  },
+  "الالتزام": {
+    "text_hint": "اتبع التعليمات",
+    "emoji_candidates": [],
+    "category": ["instruction"]
+  },
+  "العبور": {
+    "text_hint": "انتقل إلى الجهة الأخرى",
+    "emoji_candidates": ["🚶", "↔️"],
+    "category": ["action", "direction"]
+  }
+}
